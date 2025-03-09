@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hey there! I'm Adriano Vilhena</h1>  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=EBDBB2&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey+there!+I'm+Adriano+Vilhena;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</h1>
+
+
 <p align="center">
   🚀 Tech enthusiast | 🎹 Piano Learner | 🤖 AI & Cybersecurity Explorer  
 </p>  
@@ -9,7 +13,11 @@
 - 🎓 **Student** High Schooler studying **Computer Systems Management and Programming** (professional-course).  
 - 💡 Interested in **Artificial Intelligence, Cybersecurity, and Software Development**.  
 - 🤖 **First Global 2024** robotics participant – Member of Team Portugal (travel team).  
-- 🎮 **Gamer** at heart!  
+- 🎮 **Gamer** at heart!
+- <img src="https://www.svgrepo.com/show/349296/arch-linux.svg" alt="Arch Linux" width="20" height="20"/> Arch user, btw.
+
+
+
 
 ---
 
