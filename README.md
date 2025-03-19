@@ -63,4 +63,4 @@
 
 ---
 
-💻 **"Technology is best when it brings people together."** – Let's build something amazing! 🚀  
+💻 **"Technology is best when it brings people together."** — Matt Mullenweg
