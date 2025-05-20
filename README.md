@@ -9,7 +9,7 @@
 
 ---
 
-## 🧐 About Me  
+## 🧐 [About Me](https://adrxlv.github.io/portfolio/)
 - 🎓 **High Schooler** studying **Computer Systems Management and Programming** (professional-course).  
 - 💡 Interested in **Artificial Intelligence, Cybersecurity, and Software Development**.  
 - 🤖 **First Global 2024** robotics participant – Member of Team Portugal (travel team).  
