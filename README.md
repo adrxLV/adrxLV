@@ -65,6 +65,4 @@
 
 💻 **"Technology is best when it brings people together."** — Matt Mullenweg
 
-<p align="center">
-  ![Adrx's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrxLV&show_icons=true&theme=gruvbox)
-</p>
+![Adrx's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrxLV&show_icons=true&theme=gruvbox)
