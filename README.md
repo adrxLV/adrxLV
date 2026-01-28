@@ -11,8 +11,9 @@
 
 ## 🧐 [About Me](https://adrxlv.github.io/portfolio/)
 - 🎓 **High Schooler** studying **Computer Systems Management and Programming** (professional-course).  
-- 💡 Interested in **Artificial Intelligence, Cybersecurity, and Software Development**.  
-- 🤖 **First Global 2024** robotics participant – Member of Team Portugal (travel team).  
+- 💡 Interested in **Artificial Intelligence, Cybersecurity, and Software Development**.
+- 🤖 **First Global 2025** robotics participant – Member of Team Portugal (travel team -> Panama).
+- 🤖 **First Global 2024** robotics participant – Member of Team Portugal (travel team -> Athens).  
 - 🎮 **Gamer** at heart!
 - <img src="https://www.svgrepo.com/show/349296/arch-linux.svg" alt="Arch Linux" width="20" height="20"/> Arch user, btw.
 
