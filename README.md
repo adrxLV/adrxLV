@@ -32,7 +32,9 @@
   <img src="https://img.shields.io/badge/C%23-%238F3F71?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-%23D65D0E?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%238EC07C?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
+
 
 ### 🛠️ Tools & Platforms  
 <p align="left">
