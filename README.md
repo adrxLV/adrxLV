@@ -39,8 +39,12 @@
   <img src="https://img.shields.io/badge/Git-%23D79921?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%238F3F71?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-%23945818?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JetBrains%20IDEs-%23B57614?style=for-the-badge&logo=jetbrains&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-%23512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razor-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
+
 
 ### 🔒 Cybersecurity & AI Interests  
 - **AI-powered automation & security**  
